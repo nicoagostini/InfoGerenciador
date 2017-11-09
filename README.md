@@ -1,5 +1,7 @@
 # InfoGerenciador
 
+https://github.com/nicoagostini/InfoGerenciador/blob/master/screenshot/print.png
+
 A graduation project, based in an ERP system, developed to manage purchase, inventory, quotes, sales, accounts receivable, user management and a To do list.
 
 To log in use: Email: admin@admin.com Password: admin

@@ -3,7 +3,7 @@ class bd{
 	public $conexao;
 	public $id;
 	public function __construct(){
-		$this->conexao = new mysqli("localhost", "root", "", "info");
+		$this->conexao = new mysqli("localhost", "user", "password", "db_name");
 		$this->conexao -> set_charset("utf8");
 	}
 
